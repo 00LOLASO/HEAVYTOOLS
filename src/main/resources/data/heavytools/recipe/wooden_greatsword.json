@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " X ",
+    "XXX",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "heavytools:wooden_greatsword"
+  }
+}

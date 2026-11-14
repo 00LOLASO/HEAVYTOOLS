@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "heavytools:wooden_greatsword",
+    "heavytools:stone_greatsword",
+    "heavytools:iron_greatsword",
+    "heavytools:diamond_greatsword",
+    "heavytools:netherite_greatsword"
+  ]
+}

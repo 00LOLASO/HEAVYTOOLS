@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "heavytools:wooden_heavy_axe",
+    "heavytools:stone_heavy_axe",
+    "heavytools:iron_heavy_axe",
+    "heavytools:diamond_heavy_axe",
+    "heavytools:netherite_heavy_axe"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "item.heavytools.wooden_hammer": "Martillo de madera",
+  "item.heavytools.wooden_greatsword": "Gran espada de madera",
+  "item.heavytools.wooden_heavy_axe": "Hacha pesada de madera",
+  "item.heavytools.stone_hammer": "Martillo de piedra",
+  "item.heavytools.stone_greatsword": "Gran espada de piedra",
+  "item.heavytools.stone_heavy_axe": "Hacha pesada de piedra",
+  "item.heavytools.iron_hammer": "Martillo de hierro",
+  "item.heavytools.iron_greatsword": "Gran espada de hierro",
+  "item.heavytools.iron_heavy_axe": "Hacha pesada de hierro",
+  "item.heavytools.diamond_hammer": "Martillo de diamante",
+  "item.heavytools.diamond_greatsword": "Gran espada de diamante",
+  "item.heavytools.diamond_heavy_axe": "Hacha pesada de diamante",
+  "item.heavytools.netherite_hammer": "Martillo de netherita",
+  "item.heavytools.netherite_greatsword": "Gran espada de netherita",
+  "item.heavytools.netherite_heavy_axe": "Hacha pesada de netherita"
+}

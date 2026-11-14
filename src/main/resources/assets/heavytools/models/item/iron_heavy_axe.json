@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "heavytools:item/iron_heavy_axe"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "item.heavytools.wooden_hammer": "Wooden Hammer",
+  "item.heavytools.wooden_greatsword": "Wooden Greatsword",
+  "item.heavytools.wooden_heavy_axe": "Wooden Heavy Axe",
+  "item.heavytools.stone_hammer": "Stone Hammer",
+  "item.heavytools.stone_greatsword": "Stone Greatsword",
+  "item.heavytools.stone_heavy_axe": "Stone Heavy Axe",
+  "item.heavytools.iron_hammer": "Iron Hammer",
+  "item.heavytools.iron_greatsword": "Iron Greatsword",
+  "item.heavytools.iron_heavy_axe": "Iron Heavy Axe",
+  "item.heavytools.diamond_hammer": "Diamond Hammer",
+  "item.heavytools.diamond_greatsword": "Diamond Greatsword",
+  "item.heavytools.diamond_heavy_axe": "Diamond Heavy Axe",
+  "item.heavytools.netherite_hammer": "Netherite Hammer",
+  "item.heavytools.netherite_greatsword": "Netherite Greatsword",
+  "item.heavytools.netherite_heavy_axe": "Netherite Heavy Axe"
+}

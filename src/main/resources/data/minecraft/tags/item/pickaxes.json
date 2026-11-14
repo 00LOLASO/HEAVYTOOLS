@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "heavytools:wooden_hammer",
+    "heavytools:stone_hammer",
+    "heavytools:iron_hammer",
+    "heavytools:diamond_hammer",
+    "heavytools:netherite_hammer"
+  ]
+}
