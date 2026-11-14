@@ -13,10 +13,12 @@ jobs:
         with:
           distribution: temurin
           java-version: 21
-      - uses: gradle/actions/setup-gradle@v4
-        with:
-          gradle-version: 8.10
-      - run: gradle build
+      - name: Descargar Gradle 8.10
+        run: |
+          curl -sSL https://services.gradle.org/distributions/gradle-8.10-bin.zip -o gradle.zip
+          unzip -q gradle.zip
+      - name: Compilar
+        run: ./gradle-8.10/bin/gradle build --no-daemon
       - uses: actions/upload-artifact@v4
         with:
           name: heavytools-jar
